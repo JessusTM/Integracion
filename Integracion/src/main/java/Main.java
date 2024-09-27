@@ -3,7 +3,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Manejando el repositorio desde GitHub");
         System.out.println("Agregando un mensaje para ver el «Amend»");
-
         // ----- esPrimo -----
         int num             = 5;
         String resultado    = esPrimo(num) 
